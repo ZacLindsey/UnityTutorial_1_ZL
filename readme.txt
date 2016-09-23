@@ -1,0 +1,1 @@
+New feature: blue block provides more points than usual
